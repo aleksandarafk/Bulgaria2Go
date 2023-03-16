@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Places
+
+  Created by Aleksandar Karamirev on 22/02/2023.
+  
+*/
+"popular" = "Popular Places";
+"landmarks" = "Landmarks";
+"profile" = "Profile";
+"map" = "Map";
+"places" = "All Places";
+"featured" = "Featured";
+"favorites" = "Favorite only";
+"search" = "Search";
+"language" = "Language";
+"completed" = "Completed Bages";
+"uncompleted" = "Uncompleted Badges";
+"username" = "Username";
+"name" = "Aleksandar Karamirev";
+"directions" = "Show directions";
+"oneyear" = "365 Days";
+"explorer" = "100% Explorer";
+"random" = "Random Location";
+"delete" = "Delete my Account";
+"message1" = "Are you sure you want to proceed?";
+"message2" = "This action cannot be undone.";
+"del" = "Delete";
+"cancel" = "Cancel";
+"appuse" = "Used the App";
+"bookworm" = "Bookworm";
+"usemap" = "Used the Map";
+"directions_info" = "Directions";

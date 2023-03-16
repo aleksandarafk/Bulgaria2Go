@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Places
+
+  Created by Aleksandar Karamirev on 22/02/2023.
+  
+*/
+"popular" = "Популярни места";
+"landmarks" = "Забележителности";
+"profile" = "Профил";
+"map" = "Карта";
+"places" = "Всички места";
+"featured" = "Места";
+"favorites" = "Любими места";
+"search" = "Търси";
+"language" = "Език";
+"completed" = "Получени значки";
+"uncompleted" = "Невзети значки";
+"username" = "Потребителско име";
+"name" = "Aleksandar Karamirev";
+"directions" = "Покажи посоката";
+"oneyear" = "365 Дена";
+"explorer" = "100% Откривател";
+"random" = "Случайна локация";
+"delete" = "Изтрий моят акаунт";
+"message1" = "Сигурни ли сте, че искате да продължите?";
+"message2" = "Тази стъпка, не може да бъде отменена.";
+"del" = "Изтрий";
+"cancel" = "Откажи";
+"appuse" = "Използва приложението";
+"bookworm" = "Книжко";
+"usemap" = "Използва картата";
+"directions_info" = "Посоки";

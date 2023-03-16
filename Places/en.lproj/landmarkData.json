@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Ethno village Etar",
+        "category": "Historical Places",
+        "city": "Gabrovo",
+        "state": "Bulgaria",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Balkan building, crafts & water wheels",
+        "coordinates": {
+            "longitude": 25.348333,
+            "latitude": 42.809444
+        },
+        "description": "The Open Air Ethnographic Museum «Etar» is an open-air museum and a neighbourhood of Gabrovo in northern Bulgaria. It is on the northern edge of the Bulgarka Nature Park, between the park and the city of Gabrovo. It presents the Bulgarian customs, culture and craftsmanship. It spans over an area of 7 ha and contains a total of 50 objects, including water installations and houses with craftsmen's workshops attached. As a whole, the complex's goal is to illustrate the architecture, way of life and economy of Gabrovo and the region during the Bulgarian National Revival. The museum's construction started in 1963 under the direction and project of Lazar Donkov. The pre-existing Karadzheyka water-mill, built around 1780, was thoroughly reconstructed, with the other objects being constructed later. The complex was opened on 7 September 1964 and proclaimed a national park in 1967, as well as a monument of culture in 1971. The park features typical Bulgarian revival houses with two floors, bay windows, a clock tower, and a beautifully decorated house by Saakov featuring 21 windows.",
+        "imageName": "etar"
+    },
+    {
+        "name": "Rila Monastery",
+        "category": "Monastery",
+        "city": "Rila Mountain",
+        "state": "Bulgaria",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "10th-century Eastern Orthodox monastery",
+        "coordinates": {
+            "longitude":  23.3402,
+            "latitude": 42.1335
+        },
+        "description": "The Monastery of Saint John of Rila, also known as Rila Monastery 'Sveti Ivan Rilski', is the largest and most famous Eastern Orthodox monastery in Bulgaria. It is situated in the southwestern Rila Mountains, 117 km south of the capital Sofia in the deep valley of the Rilska River at an elevation of 1,147 m above sea level, inside of Rila Monastery Nature Park. The monastery is named after its founder, the hermit Ivan of Rila, and houses around 60 monks. Founded in the 10th century, the Rila Monastery is regarded as one of Bulgaria's most important cultural, historical and architectural monuments and is a key tourist attraction for both Bulgaria and Southern Europe. In 2008 alone, it attracted 900,000 visitors. The monastery is depicted on the reverse of the 1 lev banknote, issued in 1999.",
+        "imageName": "rila"
+    },
+    {
+        "name": "Tsarevets Fortress",
+        "category": "Historical Places",
+        "city": "Veliko Tarnovo",
+        "state": "Bulgaria",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Grand 12th-century fortress with a show",
+        "coordinates": {
+            "longitude": 25.6525,
+            "latitude":  43.0839
+        },
+        "description": "Tsarevets is a medieval stronghold located on a hill with the same name in Veliko Tarnovo in northern Bulgaria. Tsarevets is 206 metres above sea level. It served as the Second Bulgarian Empire's primary fortress and strongest bulwark between 1185 and 1393, housing the royal and the patriarchal palaces, and it is also a popular tourist attraction.",
+        "imageName": "tsarevets"
+    },
+    {
+        "name": "Ancient Theatre",
+        "category": "Ancient Places",
+        "city": "Plovdiv",
+        "state": "Bulgaria",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Performance venue at a Roman theater",
+        "coordinates": {
+            "longitude": 24.7511,
+            "latitude": 42.1469
+        },
+        "description": "The Roman theatre of Philippopolis is one of the world's best-preserved ancient Roman theatres, located in the city center of modern Plovdiv, Bulgaria, once the ancient city of Philippopolis. It was constructed in the 1st century AD, probably during the reign of Domitian. The theatre can host between 5,000 and 7,000 spectators and it is currently in use.",
+        "imageName": "philippopolis"
+    },
+    {
+        "name": "Bachkovo Monastery",
+        "category": "Monastery",
+        "city": "Asenovgrad",
+        "state": "Bulgaria",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "11th-century Eastern Orthodox monastery",
+        "coordinates": {
+            "longitude": 24.8494,
+            "latitude": 41.9421
+        },
+        "description": "The Bachkovo Monastery of the Dormition of the Theotokos, archaically the Petritsoni Monastery or Monastery of the Mother of God Petritzonitissa is a major Eastern Orthodox monastery in Southern Bulgaria. It is located on the right bank of the Chepelare River, 189 km from Sofia and 10 km south of Asenovgrad, and is directly subordinate to the Holy Synod of the Bulgarian Orthodox Church. The monastery is known and appreciated for the unique combination of Byzantine, Georgian and Bulgarian culture, united by the common faith.",
+        "imageName": "bachkovo"
+    },
+    {
+        "name": "Maguara Cave",
+        "category": "Ancient Places",
+        "city": "Rabisha",
+        "state": "Vidin",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Tours & prehistoric cave paintings",
+        "coordinates": {
+            "longitude": 22.5840,
+            "latitude": 43.7273
+        },
+        "description": "The Magura Cave is located in north-western Bulgaria close to the village of Rabisha, 25 km from the town of Belogradchik in Vidin Province. The prehistoric wall paintings of Magura have great resemblance with those of the Grotta dei Cervi in Italy, which are of exceptional expression and artistic depth and are considered the most significant works of art of the European Post-Paleolithic era. Guided visits are conducted by the staff of Belogradchik municipality, to which the management of the cave was transferred in 2012 by the Bulgarian Council of Ministers. In 1984 the site was inducted into UNESCO's tentative list of World Heritage.",
+        "imageName": "maguara"
+    },
+    {
+        "name": "Pirin National Park",
+        "category": "Historical Places",
+        "city": "Blagoevgrad Province",
+        "state": "Blagoevgrad Province",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Scenic hiking trails & glacial lakes",
+        "coordinates": {
+            "longitude": 23.4148,
+            "latitude": 41.7245
+        },
+        "description": "Pirin National Park, originally named Vihren National Park, encompasses the larger part of the Pirin Mountains in southwestern Bulgaria, spanning an area of 403.56 km². It is one of the three national parks in the country, the others being Rila National Park and Central Balkan National Park. The park was established in 1962 and its territory was expanded several times since then. Pirin National Park was declared a UNESCO World Heritage Site in 1983. The elevation varies from 950 m to 2,914 m at Vihren, Bulgaria's second highest summit and the Balkans' third. The park is situated in Blagoevgrad Province, the nation's south-westernmost region, on the territory of seven municipalities: Bansko, Gotse Delchev, Kresna, Razlog, Sandanski, Simitli and Strumyani. There are no populated places within its territory. Two nature reserves are located within the boundaries of Pirin National Park, Bayuvi Dupki–Dzhindzhiritsa and Yulen. Bayuvi Dupki–Dzhindzhiritsa is among the oldest in Bulgaria, established in 1934 and is included in the World Network of Biosphere Reserves under the UNESCO Man and Biosphere Programme.",
+        "imageName": "pirin"
+    },
+    {
+        "name": "Troyan Monastery",
+        "category": "Monastery",
+        "city": "Lovech Province",
+        "state": "Lovech Province",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Centuries-old monastery with a museum",
+        "coordinates": {
+            "longitude": 24.7809,
+            "latitude":  42.8620
+        },
+        "description": "The Monastery of the Dormition of the Most Holy Mother of God or, as it is more commonly called, the Troyan Monastery is the third largest monastery in Bulgaria. It is located in the northern part of the country in the Balkan mountains and was founded no later than the end of the 16th century. The monastery is situated on the banks of the Cherni Osam near Oreshak, a village 10 km from Troyan in Lovech Province, and is a popular tourist destination. The main church of the monastery was reconstructed near the end of Ottoman rule during the Bulgarian National Revival period by a master-builder called Konstantin in 1835. The ornate interior and exterior of the church were painted between 1847 and 1849 by Zahari Zograph, a popular Bulgarian painter of the time, who also painted the central church of the Rila Monastery, the largest monastery in Bulgaria. Many of the 'moral and social experiments' of art at the time such as Doomsday and Wheel of Life were reproduced at Troyan. One highly controversial move by Zograph was to paint his image around one of the windows in the back of the church. The iconostasis in the central church is a wood carving dating to 1839.",
+        "imageName": "troyan"
+    },
+    {
+        "name": "Ancient Stadium of Philipopolis",
+        "category": "Ancient Places",
+        "city": "Plovdiv",
+        "state": "Bulgaria",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": 24.748018,
+            "latitude": 42.147568
+        },
+        "description": "The Stadium of Philippopolis was the ancient Roman stadium of Philippopolis, built in the 2nd century AD, during the Roman imperial period. It is among the largest and best preserved buildings from the time of the Roman Empire in the Balkan peninsula. At the time the stadium was built, Philippopolis was the capital of the Roman province of Thracia. The stadium, approximately 250 m long and 50 m wide, could seat up to 30,000 spectators. Today, the northern curved part of the stadium is partially restored and is one of the most recognisable landmarks of the city among the many preserved buildings from Roman times",
+        "imageName": "stadium"
+    },
+    {
+        "name": "Aladzha Monastery",
+        "category": "Monastery",
+        "city": "Varna",
+        "state": "Bulgaria",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Medieval cave monastery in a cliff",
+        "coordinates": {
+            "longitude": 28.0155,
+            "latitude": 43.2780
+        },
+        "description": "Aladzha Monastery is a medieval Orthodox Christian cave monastery complex in northeastern Bulgaria, 17 km north of central Varna and 3 km west of Golden Sands beach resort, in a protected forest area adjacent to the Golden Sands Nature Park. The monastery caves were hewn into a 25-m high vertical karst cliff near the upper edge of the Franga Plateau on several levels. The complex includes two small nearby catacombs. Dedicated to the Holy Trinity, it was an active hesychast monastic community of the Second Bulgarian Empire since the 12th century and perhaps survived until the early 18th century. Nearby, remains of a 5th-century cave monastery have been found. A cave monastery may have existed not far from the modern monastery Aladzha, near Varna. Its early dating to the fourth century is secured by fragments of glassware, but coins of Justinian indicate that the complex may have still been in use during the 500s. As late as the early 20th century, the forested hills surrounding the monastery and known as Hachuka or Latin, were regarded by locals as sacred and inhabited by a mythical chthonic daemon treasure keeper, Imri Pop or Rim-Papa.",
+        "imageName": "aladzha"
+    },
+    {
+        "name": "Monument of Freedom",
+        "category": "Historical Places",
+        "city": "Shipka Peak",
+        "state": "Bulgaria",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Towering battle monument & sarcophagus",
+        "coordinates": {
+            "longitude": 25.32194,
+            "latitude": 42.74833
+        },
+        "description": "The Liberty Memorial is the symbol of modern Bulgaria and the liberation of Bulgaria. The monument is the heart of the Shipka National Park-Museum and is located on Shipka Peak. Its outline resembles a medieval Bulgarian fortress and can be seen from dozens of kilometres. It was built with donations from the people from all over Bulgaria and was inaugurated on 26 August 1934. It is 31.5 m tall and 890 steps lead up to it. The powerful bronze lion, symbolizing the coat of arms of Bulgaria – the symbol of the Bulgarian state – guards the entrance to the Memorial. The other three walls of the monument bear the names Shipka, Sheynovo and Stara Zahora – the battlefields in defense of the Pass. On the ground floor under a marble sarcophagus, rest the remains of Shipka's defenders. The sarcophagus stands on four prone stone lions and above it as honour guards stand the statues of a Bulgarian opalchenets and a Russian soldier. The other seven floors of the museum display personal effects of the soldiers and volunteers, medals, photos, weapons and documents related to the battles fought over Shipka.",
+        "imageName": "shipka"
+    },
+    {
+        "name": "Perperikon",
+        "category": "Ancient Places",
+        "city": "Kardzhali",
+        "state": "Bulgaria",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Ancient hilltop archaeological site",
+        "coordinates": {
+            "longitude": 25.4659,
+            "latitude": 41.7150
+        },
+        "description": "The ancient Thracian city of Perperikon is located in the Eastern Rhodopes, 15 km northeast of the present-day town of Kardzhali, Bulgaria on a 470 m high rocky hill, which is thought to have been a sacred place. The village of Gorna krepost is located at the foot of the hill and the gold-bearing Perpereshka River flows nearby. Perperikon is the largest megalith ensemble site in the Balkans.",
+        "imageName": "perperikon"
+    }
+]

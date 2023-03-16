@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Places
+
+  Created by Aleksandar Karamirev on 22/02/2023.
+  
+*/
+"popular" = "أماكن شعبية";
+"landmarks" = "معالم";
+"profile" = "حساب تعريفي";
+"map" = "خريطة";
+"places" = "جميع الأماكن";
+"featured" = "متميز";
+"favorites" = "المفضلة فقط";
+"search" = "يبحث";
+"language" = "لغة";
+"completed" = "شارات مكتملة";
+"uncompleted" = "شارات غير مكتملة";
+"username" = "اسم المستخدم";
+"name" = "ألكسندر كاراميريف";
+"directions" = "عرض الاتجاهات";
+"oneyear" = "365 يوما";
+"explorer" = "100٪ إكسبلورر";
+"random" = "موقع عشوائي";
+"delete" = "احذف حسابي";
+"message1" = "هل انت متأكد انك تريد المتابعة؟";
+"message2" = "لا يمكن التراجع عن هذا الإجراء.";
+"del" = "يمسح";
+"cancel" = "يلغي";
+"appuse" = "استخدم التطبيق";
+"bookworm" = "المثقف";
+"usemap" = "استخدم الخريطة";
+"directions_info" = "استخدم";

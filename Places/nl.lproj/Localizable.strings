@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Places
+
+  Created by Aleksandar Karamirev on 22/02/2023.
+  
+*/
+"popular" = "Populaire plekken";
+"landmarks" = "Bezienswaardigheden";
+"profile" = "Profiel";
+"map" = "Kaart";
+"places" = "Alle plekken";
+"featured" = "Aanbevolen";
+"favorites" = "Favorieten";
+"search" = "Zoeken";
+"language" = "Taal";
+"completed" = "Voltooide badges";
+"uncompleted" = "Onvoltooide badges";
+"username" = "Gebruikersnaam";
+"name" = "Aleksandar Karamirev";
+"directions" = "Routebeschrijving weergeven";
+"oneyear" = "365 Dagen";
+"explorer" = "100% Verkenner";
+"random" = "Willekeurige locatie";
+"delete" = "Mijn account verwijderen";
+"message1" = "Weet u zeker dat u wilt doorgaan?";
+"message2" = "Deze actie kan niet ongedaan worden gemaakt.";
+"del" = "Verwijderen";
+"cancel" = "Annuleren";
+"appuse" = "Gebruikte de App";
+"bookworm" = "Boekenwurm";
+"usemap" = "Gebruikte de Kaart";
+"directions_info" = "Weergeven";

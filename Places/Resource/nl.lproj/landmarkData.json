@@ -1,0 +1,195 @@
+[
+    {
+        "name": "Etno dorp Etar",
+        "category": "Historical Places",
+        "city": "Gabrovo",
+        "state": "Bulgarije",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Balkan gebouw, ambachten en waterwielen",
+        "coordinates": {
+            "longitude": 25.348333,
+            "latitude": 42.809444
+        },
+        "description": "Het openluchtmuseum Etar is een openluchtmuseum en een wijk van Gabrovo in het noorden van Bulgarije. Het bevindt zich aan de noordelijke rand van het natuurpark Bulgarka, tussen het park en de stad Gabrovo. Het presenteert de Bulgaarse gebruiken, cultuur en ambacht. Het beslaat een oppervlakte van 7 ha en bevat in totaal 50 objecten, waaronder waterinstallaties en huizen met ambachtsliedenwerkplaatsen. Het doel van het complex is om de architectuur, levensstijl en economie van Gabrovo en de regio tijdens de Bulgaarse Nationale Revolutie te illustreren. De constructie van het museum begon in 1963 onder leiding en project van Lazar Donkov. De reeds bestaande watermolen van Karadzheyka, gebouwd rond 1780, werd grondig gerenoveerd, terwijl de andere objecten later werden gebouwd. Het complex werd geopend op 7 september 1964 en uitgeroepen tot nationaal park in 1967, evenals tot een monument van cultuur in 1971. Het park beschikt over typische Bulgaarse wederopbouwhuizen met twee verdiepingen, erkers, een klokkentoren en een prachtig versierd huis van Saakov met 21 ramen.",
+        "imageName": "etar"
+    },
+    {
+             "name": "Rila-klooster",
+             "category": "Monastery",
+             "city": "Rilaberg",
+             "state": "Bulgarije",
+             "id": 1002,
+             "isFeatured": false,
+             "isFavorite": false,
+             "park": "oosters-orthodox klooster uit de 10e eeuw",
+             "coordinates": {
+                 "longitude":  23.3402,
+                 "latitude": 42.1335
+             },
+             "description": "Het klooster van de heilige Johannes van Rila, ook bekend als het Rila-klooster 'Sveti Ivan Rilski', is het grootste en beroemdste oosters-orthodoxe klooster in Bulgarije. Het is gelegen in het zuidwestelijke Rila-gebergte, 117 km ten zuiden van de hoofdstad Sofia in de diepe vallei van de Rilska-rivier op een hoogte van 1147 m boven zeeniveau, in het natuurpark van het Rila-klooster. Het klooster is vernoemd naar de stichter, de kluizenaar Ivan van Rila, en herbergt ongeveer 60 monniken. Opgericht in de Het Rila-klooster uit de 10e eeuw wordt beschouwd als een van de belangrijkste culturele, historische en architectonische monumenten van Bulgarije en is een belangrijke toeristische attractie voor zowel Bulgarije als Zuid-Europa. Alleen al in 2008 trok het 900.000 bezoekers. Het klooster staat afgebeeld op de achterkant van het bankbiljet van 1 lev, uitgegeven in 1999.",
+             "imageName": "rila"
+         },
+    {
+        "name": "Tsarevets-fort",
+        "category": "Historical Places",
+        "city": "Veliko Tarnovo",
+        "state": "Bulgarije",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Groot 12e-eeuws fort met een show",
+        "coordinates": {
+            "longitude": 23.3402,
+            "latitude": 42.1335
+        },
+        "description": "Tsarevets is een middeleeuws bolwerk gelegen op een heuvel met dezelfde naam in Veliko Tarnovo in het noorden van Bulgarije. Tsarevets ligt 206 meter boven de zeespiegel. Het diende tussen 1185 en 1393 als het belangrijkste fort en sterkste bolwerk van het Tweede Bulgaarse rijk. het huisvest de koninklijke en de patriarchale paleizen, en het is ook een populaire toeristische attractie.",
+        "imageName": "tsarevets"
+    },
+    {
+        "name": "Oude Theater",
+        "category": "Ancient Places",
+        "city": "Plovdiv",
+        "state": "Bulgarije",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Optredenslocatie in een Romeins theater",
+        "coordinates": {
+            "longitude": 24.7511,
+            "latitude": 42.1469
+        },
+        "description": "Het Romeinse theater van Philippopolis is een van 's werelds best bewaarde oude Romeinse theaters, gelegen in het stadscentrum van het moderne Plovdiv, Bulgarije, ooit de oude stad Philippopolis. Het werd waarschijnlijk gebouwd in de 1e eeuw na Christus. tijdens het bewind van Domitianus. Het theater biedt plaats aan tussen de 5.000 en 7.000 toeschouwers en is momenteel in gebruik.",
+        "imageName": "philippopolis"
+    },
+    {
+        "name": "Bachkovo-klooster",
+        "category": "Monastery",
+        "city": "Asenovgrad",
+        "state": "Bulgarije",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "oosters-orthodox klooster uit de 11e eeuw",
+        "coordinates": {
+            "longitude": 24.8494,
+            "latitude": 41.9421
+        },
+        "description": "Het Bachkovo-klooster van de Dormition van de Theotokos, archaïsch gezien het Petritsoni-klooster of het klooster van de Moeder van God Petritzonitissa, is een belangrijk Oosters-orthodox klooster in Zuid-Bulgarije. Het is gelegen op de rechteroever van de Chepelare-rivier, 189 km van Sofia en 10 km ten zuiden van Asenovgrad, en is direct ondergeschikt aan de Heilige Synode van de Bulgaars-Orthodoxe Kerk. Het klooster staat bekend en wordt gewaardeerd om de unieke combinatie van Byzantijnse, Georgische en Bulgaarse cultuur, verenigd door het gemeenschappelijke geloof.",
+        "imageName": "bachkovo"
+    },
+    {
+        "name": "Maguara-grot",
+        "category": "Ancient Places",
+        "city": "Rabisha",
+        "state": "Vidin",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Rondleidingen & prehistorische grotschilderingen",
+        "coordinates": {
+            "longitude": 22.5840,
+            "latitude": 43.7273
+        },
+        "description": "De Magura-grot ligt in het noordwesten van Bulgarije, dicht bij het dorp Rabisha, 25 km van de stad Belogradchik in de provincie Vidin. De prehistorische muurschilderingen van Magura lijken sterk op die van de Grotta dei Cervi in Italië, die van uitzonderlijke expressie en artistieke diepgang zijn en worden beschouwd als de belangrijkste kunstwerken van het Europese post-paleolithicum Rondleidingen worden geleid door het personeel van de gemeente Belogradchik, waaraan het beheer van de grot in 2012 werd overgedragen door de Bulgaarse ministerraad. In 1984 werd de site opgenomen in de voorlopige lijst van UNESCO van Werelderfgoed.",
+        "imageName": "maguara"
+    },
+    {
+        "name": "Nationaal park Pirin",
+        "category": "Historical Places",
+        "city": "Provincie Blagoëvgrad",
+        "state": "Provincie Blagoëvgrad",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Mooie wandelpaden en gletsjermeren",
+        "coordinates": {
+            "longitude": 23.4148,
+            "latitude": 41.7245
+        },
+        "description": "Pirin National Park, oorspronkelijk Vihren National Park genaamd, omvat het grootste deel van het Pirin-gebergte in het zuidwesten van Bulgarije, met een oppervlakte van 403,56 km². Het is een van de drie nationale parken in het land, de andere zijn Rila Nationaal Park en Centraal Balkan Nationaal Park. Het park werd opgericht in 1962 en zijn grondgebied werd sindsdien verschillende keren uitgebreid. Nationaal park Pirin werd uitgeroepen tot UNESCO-werelderfgoed in 1983. De hoogte varieert van 950 m tot 2.914 m in Vihren, Bulgarije's op een na hoogste top en de derde van de Balkan. Het park is gelegen in de provincie Blagoevgrad, de meest zuidwestelijke regio van het land, op het grondgebied van zeven gemeenten: Bansko, Gotse Delchev, Kresna, Razlog, Sandanski, Simitli en Strumyani. Er zijn geen bevolkte Twee natuurreservaten bevinden zich binnen de grenzen van Pirin National Park, Bayuvi Dupki – Dzhindzhiritsa en Yulen.Bayuvi Dupki-Dzhindzhiritsa is een van de oudste in Bulgarije, opgericht in 1934 en is opgenomen in het World Network of Biosphere Reserves onder het UNESCO Man and Biosphere Programme.",
+        "imageName": "pirin"
+    },
+    
+    {
+        "name": "Troyaans klooster",
+        "category": "Monastery",
+        "city": "Lovetsj provincie",
+        "state": "Lovetsj provincie",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Eeuwenoud klooster met museum",
+        "coordinates": {
+            "longitude": 24.7809,
+            "latitude": 42.8620
+        },
+        "description": "Het klooster van de Tenhemelopneming van de Allerheiligste Moeder van God of, zoals het vaker wordt genoemd, het Troyan-klooster, is het op twee na grootste klooster in Bulgarije. Het is gelegen in het noordelijke deel van het land in de Balkan bergen en werd uiterlijk aan het einde van de 16e eeuw gesticht. Het klooster ligt aan de oevers van de Cherni Osam in de buurt van Oreshak, een dorp op 10 km van Troyan in de provincie Lovech, en is een populaire toeristenbestemming. De hoofdkerk van de Het klooster werd tegen het einde van de Ottomaanse heerschappij tijdens de Bulgaarse Nationale Revival-periode herbouwd door een bouwmeester genaamd Konstantin in 1835. Het sierlijke interieur en exterieur van de kerk werden tussen 1847 en 1849 geschilderd door Zahari Zograph, een populaire Bulgaarse schilder uit die tijd , die ook de centrale kerk van het Rila-klooster schilderde, het grootste klooster in Bulgarije.Veel van de 'morele en sociale experimenten' van de kunst in die tijd, zoals Doomsday en Wheel of Life, werden gereproduceerd in Troyan. Een zeer controversiële zet van Zograph was om zijn afbeelding rond een van de ramen aan de achterkant van de kerk te schilderen. De iconostase in de centrale kerk is een houtsnijwerk uit 1839.",
+        "imageName": "troyan"
+    },
+    {
+        "name": "Oude Stadion van Philipopolis",
+        "category": "Ancient Places",
+        "city": "Plovdiv",
+        "state": "Bulgarije",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Staatsrecreatiegebied",
+        "coordinates": {
+            "longitude": 24.748018,
+            "latitude": 42.147568
+        },
+        "description": "Het stadion van Philippopolis was het oude Romeinse stadion van Philippopolis, gebouwd in de 2e eeuw na Christus, tijdens de Romeinse keizerlijke periode. Het is een van de grootste en best bewaarde gebouwen uit de tijd van het Romeinse Rijk op het Balkan-schiereiland Op het moment dat het stadion werd gebouwd, was Philippopolis de hoofdstad van de Romeinse provincie Thracië. Het stadion, ongeveer 250 m lang en 50 m breed, bood plaats aan 30.000 toeschouwers. Tegenwoordig is het noordelijke gebogen deel van het stadion gedeeltelijk gerestaureerd en is een van de meest herkenbare herkenningspunten van de stad onder de vele bewaarde gebouwen uit de Romeinse tijd",
+        "imageName": "stadium"
+    },
+    {
+        "name": "Aladzha-klooster",
+        "category": "Monastery",
+        "city": "Varna",
+        "state": "Bulgarije",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Middeleeuws grotklooster in een klif",
+        "coordinates": {
+            "longitude": 28.0155,
+            "latitude": 43.2780
+        },
+        "description": "Het Aladzha-klooster is een middeleeuws-orthodox-christelijk grotkloostercomplex in het noordoosten van Bulgarije, 17 km ten noorden van het centrum van Varna en 3 km ten westen van het strandresort Golden Sands, in een beschermd bosgebied naast het natuurpark Golden Sands. Het klooster grotten werden op verschillende niveaus uitgehouwen in een 25 m hoge verticale karstklif nabij de bovenrand van het Franga-plateau. Het complex omvat twee kleine nabijgelegen catacomben. Opgedragen aan de Heilige Drie-eenheid, was het een actieve hesychast-kloostergemeenschap van het Tweede Bulgaarse rijk sinds de 12e eeuw en misschien overleefd tot het begin van de 18e eeuw. In de buurt zijn overblijfselen gevonden van een 5e-eeuws grotklooster. Mogelijk heeft er niet ver van het moderne klooster Aladzha, in de buurt van Varna, een grotklooster bestaan. eeuw is beveiligd door fragmenten van glaswerk, maar munten van Justinianus geven aan dat het complex mogelijk nog in gebruik was in de jaren 500. Pas in het begin van de 20e eeuw werden de beboste heuvels rond het klooster en bekend als Hachuka of Latijn, werden door de lokale bevolking als heilig beschouwd en bewoond door een mythische chtonische daemon-schatbewaarder, Imri Pop of Rim-Papa.",
+        "imageName": "aladzha"
+    },
+    {
+        "name": "Vrijheidsmonument",
+        "category": "Historical Places",
+        "city": "Shipka-piek",
+        "state": "Bulgarije",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Torenhoog strijdmonument & sarcofaag",
+        "coordinates": {
+            "longitude": 25.32194,
+            "latitude": 42.74833
+        },
+        "description": "Het Vrijheidsmonument is het symbool van het moderne Bulgarije en de bevrijding van Bulgarije. Het monument vormt het hart van het Shipka National Park-Museum en bevindt zich op Shipka Peak. De omtrek lijkt op een middeleeuws Bulgaars fort en kan worden gezien van tientallen kilometers. Het werd gebouwd met donaties van de mensen uit heel Bulgarije en werd ingehuldigd op 26 augustus 1934. Het is 31,5 m hoog en 890 treden leiden ernaar.De machtige bronzen leeuw, die het wapen van Bulgarije symboliseert – het symbool van de Bulgaarse staat – bewaakt de ingang van het Memorial.De andere drie muren van het monument dragen de namen Shipka, Sheynovo en Stara Zahora – de slagvelden ter verdediging van de Pas.Op de begane grond, onder een marmeren sarcofaag, rusten de overblijfselen van Shipka's verdedigers. De sarcofaag staat op vier stenen leeuwen en daarboven staan als erewachters de standbeelden van een Bulgaarse opalchenets en een Russische soldaat. De andere zeven verdiepingen van het museum tonen persoon alle effecten van de soldaten en vrijwilligers, medailles, foto's, wapens en documenten met betrekking tot de gevechten om Shipka.",
+        "imageName": "shipka"
+    },
+    {
+        "name": "Perpericon",
+        "category": "Ancient Places",
+        "city": "Kardzjali",
+        "state": "Bulgarije",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Oude archeologische vindplaats op een heuveltop",
+        "coordinates": {
+            "longitude": 25.4659,
+            "latitude": 41.7150
+        },
+        "description": "De oude Thracische stad Perperikon ligt in de oostelijke Rhodopes, 15 km ten noordoosten van de huidige stad Kardzhali, Bulgarije, op een 470 m hoge rotsachtige heuvel, waarvan wordt aangenomen dat het een heilige plaats was. De Het dorp Gorna Krepost ligt aan de voet van de heuvel en de goudhoudende Perpereshka-rivier stroomt in de buurt. Perperikon is de grootste vindplaats van megalietensembles in de Balkan.",
+        "imageName": "perperikon"
+    }
+]
